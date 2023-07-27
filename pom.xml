@@ -106,7 +106,8 @@
     <dependency>
       <groupId>org.graalvm.js</groupId>
       <artifactId>js</artifactId>
-      <version>${graalvm.version}</version>
+     <version>23.0.1</version> 
+     <!--<version>${graalvm.version}</version>-->
       <scope>test</scope>
     </dependency>
     <dependency>
